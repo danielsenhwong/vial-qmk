@@ -31,5 +31,23 @@
             [{"r":-45,"y":1.3,"x":-2.08,"h":1.5},"9,4"],
             [{"r":-30,"y":-0.45,"x":0.8},"9,3"]       
           ]
-    }
+    },
+    "customKeycodes": [
+        {"name": "–",
+         "title": "En Dash (ALT+0150)",
+         "shortName": "KC_ENDASH"
+        },
+        {"name": "€",
+         "title": "EUR Currency Symbol (ALT+0128)",
+         "shortName": "CS_EUR"
+        },
+        {"name": "£",
+         "title": "GBP Currency Symbol (ALT+0163)",
+         "shortName": "CS_GBP"
+        },
+        {"name": "¥",
+         "title": "JPY Currency Symbol (ALT+0165)",
+         "shortName": "CS_JPY"
+        }
+    ]
 }

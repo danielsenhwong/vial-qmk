@@ -28,7 +28,7 @@ MOUSEKEY_ENABLE = no
 SPACE_CADET_ENABLE = no
 MAGIC_ENABLE = no
 
-# AVR_USE_MINIMAL_PRINTF = yes
+AVR_USE_MINIMAL_PRINTF = yes
 
 # Enable use of Vial
 # Similar to VIA
